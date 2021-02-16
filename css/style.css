@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.full-section{
+    background-color: rgb(255, 0, 0);
+    height: 100vh;
+}
